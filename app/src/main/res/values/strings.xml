@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">PythonTest2</string>
+    <string name="camera" translatable="false">相机拍照</string>
+    <string name="usb_camera" translatable="false">USB相机拍照</string>
+    <string name="gallery" translatable="false">图库选择</string>
+    <string name="tips" translatable="false">请选择待检测图片来源</string>
+    <string name="take_picture" translatable="false">拍照</string>
+    <string name="back" translatable="false">返回</string>
+    <string name="tips_image" translatable="false">待处理图像显示区</string>
+    <string name="tips_python" translatable="false">图像处理显示区</string>
+</resources>

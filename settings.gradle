@@ -1,0 +1,2 @@
+rootProject.name='PythonTest2'
+include ':app', ':libuvccamera'
